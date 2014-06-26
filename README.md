@@ -18,6 +18,7 @@ Configuracion de la base de datos en Laravel
             		'charset'  => 'utf8',
             		'prefix'   => '',
             		'schema'   => 'public',
+            		'port'     => '6432',
             		),
 Configuracion de la base de datos en pgadmin 3
 
